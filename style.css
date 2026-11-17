@@ -9,4 +9,5 @@ iframe[src*="netlify"] {
 }
 header a {
   white-space: nowrap;
+  font-size: 0.9rem;
 }
