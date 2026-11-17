@@ -7,3 +7,6 @@ iframe[src*="netlify"] {
   opacity: 0 !important;
   pointer-events: none !important;
 }
+header nav a {
+  white-space: nowrap;
+}
